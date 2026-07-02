@@ -23,7 +23,7 @@ export default function Landing({ onHost, onPlayer }) {
         </button>
       </div>
       <div style={{ fontSize: 12, color: 'var(--text-tertiary)' }}>
-        Real-time sync · Works on any device · No account needed
+       Lets play!
       </div>
     </div>
   );
